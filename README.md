@@ -1,6 +1,6 @@
 # BetterKart
 
-This is the documentation for the config. I made this to be a quality way to play Garfield Kart with a controller until the devs add true support. Gotta love that the top config literally shuts off your computer.
+This is the documentation for the config. I made this to be a quality way to play Garfield Kart with a controller until the devs add true support. Made because the top config used to shut off your computer.
 
 ## How to get it
 
